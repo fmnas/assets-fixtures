@@ -1,2 +1,2 @@
-# fixtures
-Test fixtures for fmnas/fmnas-site
+# assets-fixtures
+Test assets for fmnas/fmnas-site
